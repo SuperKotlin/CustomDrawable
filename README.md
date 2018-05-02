@@ -1,7 +1,7 @@
-#CustomDrawable
+# CustomDrawable
 ##效果演示:
 
- - 详细介绍博客：[自定义Drawable实现MPChart的最值图标显示](http://www.jianshu.com/p/be71f6ffe512)
+ - 详细介绍博客：[自定义Drawable实现MPChart的最值图标显示](https://www.jianshu.com/p/d6281244e69f)
 
 ![](/art/chart.jpg)
 
